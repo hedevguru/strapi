@@ -6,6 +6,7 @@ module.exports = ({ env }) => ({
     auth: {
       secret: env('ADMIN_JWT_SECRET', 'f967b8c8184d16a778b38a7bd84d20e8'),
     },
+    path: '/dashboard'
   },
   "production": true,
   "proxy": {
