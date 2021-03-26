@@ -5,7 +5,7 @@ module.exports = {
       bucketName: 'bv-cmg.appspot.com',
       publicFiles: false,
       uniform: false,
-      basePath: '',
+      basePath: 'strapi',
     },
   }
 }
