@@ -9,6 +9,9 @@ module.exports = ({ env }) => ({
     path: '/dashboard'
   },
   "production": true,
+  "autoReload": {
+    "enabled": true
+  },
   "proxy": {
     "enabled": false
   },
