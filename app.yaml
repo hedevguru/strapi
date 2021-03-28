@@ -4,7 +4,6 @@ instance_class: F2
 
 env_variables:
   HOST: '0.0.0.0'
-  NODE_ENV: 'develop'
   DATABASE_NAME: 'strapi'
   DATABASE_USERNAME: 'postgres'
   DATABASE_PASSWORD: 'stspass616'
