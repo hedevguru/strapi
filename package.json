@@ -6,7 +6,7 @@
   "scripts": {
     "gcp-build": "strapi build",
     "develop": "strapi develop",
-    "start": "strapi start",
+    "start": "strapi develop",
     "build": "strapi build",
     "strapi": "strapi"
   },
